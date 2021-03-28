@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-`evergreen` is an R package to provide a color palette based on the Evergreen ship which got stuck in Suez Canal in March 2021
+`evergreen` is an R package to provide a color palette based on [the Evergreen ship which got stuck in Suez Canal in March 2021](https://www.washingtonpost.com/world/2021/03/25/faq-suez-canal-ever-given/)
 
 ![Evergreen](img/evergreen.jpeg)
 
