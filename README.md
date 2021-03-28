@@ -33,7 +33,7 @@ library(evergreen)
 library(ggplot2)
 
 x = c("A", "B", "C", "D", "E", "F")
-y = c(60, 50, 40, 30, 5, 2.5)
+y = c(60, 50, 40, 30, 20, 10)
 
 ggplot() +
   geom_bar(aes(x = x, y = y, fill = x), stat = "identity") +

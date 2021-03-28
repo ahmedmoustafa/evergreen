@@ -1,7 +1,7 @@
 #' evergreen_palettes palette
 #'
 evergreen_palettes <- list(
-  evergreen = c("#0e2217", "#8e3628", "#e4b48e", "#c2c9b9", "#8e5b1a", "#dde959")
+  evergreen = c("#0e2217", "#8e3628", "#e4b48e", "#4c7c5d", "#8e5b1a", "#dde959")
 )
 
 
