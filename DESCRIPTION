@@ -1,0 +1,16 @@
+Package: evergreen
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: 
+    person(given = "Ahmed",
+           family = "Moustafa",
+           role = c("aut", "cre"),
+           email = "amoustafa@aucegypt.edu",
+           comment = c(ORCID = "0000-0002-0111-3555"))
+Maintainer: The package maintainer <amoustafa@aucegypt.edu>
+Description: Colors based on the Evergreen ship which got stuck in Suez Canal in March 2021.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
